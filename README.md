@@ -8,3 +8,5 @@
 <p align="center"> cr: ROFLx3
 
 <p align="center"> <a href="https://m.youtube.com/watch?v=vWhShRS74fo&list=RDvWhShRS74fo&start_radio=1&pp=ygUQV2VlemVyIGphY2tlZCB1cKAHAQ%3D%3D">crazy weezer fan</a>⠀
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=m6smbo54t3q22t2hdevg2z0ar&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
